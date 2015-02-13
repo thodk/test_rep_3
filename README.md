@@ -1,2 +1,2 @@
 # test_rep_3
-demo
+this file describe thes usege of test_rep_3
